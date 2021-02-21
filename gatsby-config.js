@@ -5,7 +5,7 @@ module.exports = {
       name: `あがるさがる`,
       summary: ``,
     },
-    description: `たまに何か書きます。`,
+    description: `その大きな芋は私のものです。ありがとう。`,
     siteUrl: `https://sgktmk.com/`,
     social: {
       twitter: `agsg_`,
