@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Bikpela Poteto Bilong Mi`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `あがるさがる`,
+      summary: ``,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `たまに何か書きます。`,
+    siteUrl: `https://sgktmk.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `agsg_`,
     },
   },
   plugins: [
