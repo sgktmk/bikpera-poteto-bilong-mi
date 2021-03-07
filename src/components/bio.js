@@ -55,11 +55,6 @@ const Bio = () => {
         <p>
           書いた人： <strong>{author.name}</strong> {author?.summary || null}
           {` `}
-          （Twitterは
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            こちら
-          </a>
-          ）
         </p>
       )}
     </div>
